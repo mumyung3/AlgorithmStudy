@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(code:*)",
+      "Bash(claude config set --global preferredNotifChannel terminal_bell)",
+      "Bash(printf:*)",
+      "Bash(echo:*)",
+      "Bash(where g++)",
+      "Bash(C:Strawberrycbing++.exe --version)",
+      "Bash(g++:*)",
+      "Bash(problem1/main.exe)",
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp:*)",
+      "Bash(npm install:*)",
+      "WebFetch(domain:comic.naver.com)",
+      "WebSearch",
+      "Bash(claude config set:*)",
+      "Bash(tput:*)",
+      "Bash(~/play-sound.sh)",
+      "Bash(~/claude-notify.sh)",
+      "Bash(powershell.exe:*)",
+      "Bash(uv tool install:*)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(claude-monitor)",
+      "Bash(cmonitor)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "outputStyle": "Learning"
+}
